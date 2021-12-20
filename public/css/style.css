@@ -1,0 +1,22 @@
+body {
+    margin-top: 2rem;
+}
+
+#movies {
+    margin-top: 3rem;
+}
+
+.col {
+    margin-left: 3rem;
+}
+
+.add-btn {
+    padding: 1rem;
+    color: white;
+    background-color: rgb(66, 66, 218);
+    border-radius: 10px;
+}
+
+a.add-btn {
+    text-decoration: none;
+}
